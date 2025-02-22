@@ -63,20 +63,38 @@ The application consists of three main components:
 
 1. **Launch the Application** – Start the Blackjack Game.  
    <p align="center">
-     <img src="https://github.com/user-attachments/assets/" width="600">
+     <img src="https://github.com/user-attachments/assets/33553b12-32fc-40f1-b958-857ba1b60b59" width="600">
    </p>
 
 2. **Get to know the rules** - Click the "How to Play" button
+   <p align="center">
+     <img src="https://github.com/user-attachments/assets/1a079ec1-f886-47ab-8041-6bd6a38c4a2e" width="600">
+   </p>
 
 3. **Check out Shortcuts** - Click the "Shortcuts" button
+   <p align="center">
+     <img src="https://github.com/user-attachments/assets/f462389b-cebb-4001-8f42-911eb37dcd53" width="600">
+   </p>
 
 4. **Start First Round** - Click the "Start" button
+   <p align="center">
+     <img src="https://github.com/user-attachments/assets/0dab08d4-bcd6-4037-a616-902871a2e78f" width="600">
+   </p>
 
 5. **Make a decision** - Click the "Hit" or "Stand" button
+   <p align="center">
+     <img src="https://github.com/user-attachments/assets/2add52b9-7f11-4b75-8cbe-327dcbe6631f" width="600">
+   </p>
 
 6. **Wait for the round result** - After pressing the "Stand" button you will be notified about the result of the round
+   <p align="center">
+     <img src="https://github.com/user-attachments/assets/38ce83d3-c0d0-4b4d-bb89-4a4961e84db9" width="600">
+   </p>
 
 7. **Maybe one more round?** - Decide if you want another round. If so, press the "Next Round" button
+   <p align="center">
+     <img src="https://github.com/user-attachments/assets/3c5fa6cb-df4f-4d2b-80f5-6d7ba06d5078" width="600">
+   </p>
 
 ## Author
 **[ptrzgal](https://github.com/ptrzgal)** 
